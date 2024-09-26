@@ -13,6 +13,7 @@ public class AccountHelper
                 system.debug('Account Phone Number='+acc.Phone);
                 system.debug('Account Fax Number='+acc.Fax);
                 system.debug('Account Active Status='+acc.Active__C);
+                system.debug ('New updation from git hub');
                 system.debug('______________________________________');
             }
         }
